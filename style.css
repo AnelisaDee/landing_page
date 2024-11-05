@@ -69,5 +69,39 @@
     display: flex;
     gap: 2rem;
     flex-wrap: wrap;
+}
+.third-page {
+    margin-top: 50px;
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+.qoute p {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: 100;
+}
+.qoute-author {
+    display: flex;
+    align-self: flex-end;
+}
+.forth-page {
+    background-color: #3882f6;
+    font-size: 18px;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: space-between;
     align-items: center;
+    padding: 40px;
+    margin: 35px;
+}
+.forth-page button {
+    background-color: #3882f6;
+    color: #fff;
+    padding: 10px;
+    border-color: #e5e7eb;
+    border-radius: 8px;
+    width: 140px;
 }
