@@ -4,6 +4,7 @@
 }
 .first-section {
     background-color: #1f2937;
+    padding: 20px;
 }
 .header {
     display: flex;
@@ -47,7 +48,7 @@
     font-size: 18px;
     padding: 8px;
     border-radius: 8px;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 .content-right img {
     width: 370px;
@@ -64,6 +65,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 50px;
 }
 .projects {
     display: flex;
